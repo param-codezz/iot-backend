@@ -1,0 +1,19 @@
+{
+  "name": "my_home_backend",
+  "version": "1.0.0",
+  "description": "My Home backend to host websocket connections",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Param",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.7.0",
+    "nodemailer": "^6.9.15",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0",
+    "ws": "^8.18.0"
+  }
+}
